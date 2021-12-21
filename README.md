@@ -1,0 +1,2 @@
+# dogecoin
+dogecoin plugin
